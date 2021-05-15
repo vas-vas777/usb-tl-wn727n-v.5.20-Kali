@@ -6,7 +6,12 @@ sudo apt-get install linux-headers-$(uname-r)
 
 Clone the repo with "git clone https://github.com/aircrack-ng/rtl8188eus -b v5.7.6.1"
 
+
 Enter the folder with "cd rtl8188eus"
+
+Before installation check issue and repair it.
+
+https://github.com/aircrack-ng/rtl8188eus/issues/114#issue-824185114
 
 sudo apt-get install bc
 
