@@ -13,6 +13,7 @@ Then run "make && make install"
 And reboot in order to blacklist the module and load this module instead.
 
 After you can use usb-adapter in monitore mode
+
 sudo airomon-ng check kill
 ip link set wlan0 down
 iwconfig wlan0 mode monitore
